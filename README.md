@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+# Portfolio Muhammad Asyraf
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Fitur Website
 
-## Available Scripts
+- Terdapat 6 section yang dapat dilihat
+- Pada Navbar, setiap menu dapat diklik untuk langsung scroll ke section
+- Deployment portfolio dapat dilihat melalui icon link pada tiap porto
+- Form contact dapat diisi dan dikirim yang nantinya akan terkirim ke email
+- Semua icon sosmed telah terlink pada sosmed aslinya
+- Pada portfolio terdapaat carousel yang dapat terscroll otomatis, serta didrag maupun klik panah kanan kiri
+- Fitur kirim pesan pada kontak telah diperbarui dengan menambahkan alert kesalahan jika terdapat input yang salah
 
-In the project directory, you can run:
+## Teknologi
 
-### `npm start`
+Teknologi dalam pembuatan website ini diantaranya:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [HTML] - Sebagai kerangka website
+- [CSS] - Untuk responsive dan gaya UI
+- [JavaScript] - Perubahan responsive layar dan membersihkan form setelah kirim
+- [Formspree] - API untuk mengirim pesan ke email saya
+- [Typescript] - Alert kesalahan pada form ketika input data
+- [ReactJS] - Kemudahan handling UI dengan component-component
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Instalasi
 
-### `npm test`
+- Download folder melalui github ini
+- Buka folder portfolio
+- Buka terminal dan ketik `npm run start`
+- Secara otomatis browser akan terbuka dan menampilkan website berikut
+- Atau buka langsung deployment melalui link berikut ([Portfolio Asyraf](https://portfolio.webacop.com/))
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tampilan Website
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Hero Section
+  ![hero_section](public/images/screenshots/hero.png)
+- About Me Section
+  ![aboutme_section](public/images/screenshots/about.png)
+- Experience Section
+  ![experience_section](public/images/screenshots/experience.png)
+- Skills & Education Section
+  ![skills_section](public/images/screenshots/skills.png)
+- Portfolio Section
+  ![portfolio_section](public/images/screenshots/porto.png)
+- Contact Section
+  ![contact_section](public/images/screenshots/contact.png)
+- Footer
+  ![footer_section](public/images/screenshots/footer.png)
