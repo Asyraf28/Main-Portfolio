@@ -29,12 +29,12 @@ const Skills = () => {
                             </div>
         
                             <div className="education-info">
-                                <h4 className="education-title">SMAN 1 Maospati</h4>
-                                <p>IPA</p>
-                                <h4 className="education-years">2019 - 2022</h4>
+                                <h4 className="education-title">Bangkit Academy 2024 By Google, GoTo, Tokopedia, Traveloka</h4>
+                                <p>Cloud Computing Cohort</p>
+                                <h4 className="education-years">2024 - 2024</h4>
                             </div>
                         </div>
-        
+
                         {/* Education 3 */}
                         <div className="education">
                             <div className="line">
@@ -42,15 +42,15 @@ const Skills = () => {
                             </div>
         
                             <div className="education-info">
-                                <h4 className="education-title">Vocational School Graduate Academy Digital Talent Scholarship 2023</h4>
-                                <p>Junior Web Developer</p>
-                                <h4 className="education-years">2023 - 2023</h4>
+                                <h4 className="education-title">SMAN 1 Maospati</h4>
+                                <p>IPA</p>
+                                <h4 className="education-years">2019 - 2022</h4>
                             </div>
                         </div>
                     </div>
+
                     <div className="skills-right">
-                        <p>Mengikuti berbagai pelatihan juga sertifikasi di bidang Website Development selama dua tahun masa kuliah. Memiliki banyak pengalaman dalam meningkatkan sofskill dengan mengikuti beberapa volunteer maupun internship.</p>
-        
+                        <p>Mengikuti berbagai pelatihan juga sertifikasi di bidang Website Development selama tiga tahun masa kuliah. Memiliki banyak pengalaman dalam meningkatkan sofskill dengan mengikuti beberapa volunteer maupun internship.</p>
                         <div className="skills-list">
                             <ul>
                                 <li>HTML & CSS</li>
@@ -59,8 +59,11 @@ const Skills = () => {
                                 <li>PHP</li>
                                 <li>Bootstrap</li>
                                 <li>Laravel</li>
+                                <li>ExpressJS</li>
                                 <li>ReactJS</li>
                                 <li>SQL</li>
+                                <li>MongoDB</li>
+                                <li>Google Cloud Computing</li>
                             </ul>
         
                             <ul>
@@ -70,6 +73,7 @@ const Skills = () => {
                                 <li>Kepemimpinan</li>
                                 <li>Negosiasi</li>
                                 <li>Komunikasi</li>
+                                <li>Critical Thingking</li>
                             </ul>
                         </div>
                     </div>

@@ -11,7 +11,7 @@ const About = () => {
                 <div className="about-right">
                     <h3 className="pre-title">About Me</h3>
                     <h1 className="section-about-title">Data Diri</h1>
-                    <p>Mahasiswa Informatika tahun kedua yang cukup aktif dalam organisasi maupun dunia karir. Memiliki beberapa pengalaman profesional dengan pencapaian yang bagus.</p>
+                    <p>Mahasiswa Informatika tahun ketiga yang cukup aktif dalam organisasi maupun dunia karir. Memiliki beberapa pengalaman profesional dengan pencapaian yang bagus.</p>
 
                     <div className="data-diri">
                         <div className="label-about">

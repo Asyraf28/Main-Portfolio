@@ -110,7 +110,7 @@ const Portfolios = () => {
                                 <div className="portfolio-info">
                                     <div className="portfolio-title">
                                         <h4>Landing Page ILC</h4>
-                                        <a href="https://ilc.webacop.com/" className="portfolio-link" target="_blank">
+                                        <a href="https://webilc.rafsite.com/" className="portfolio-link" target="_blank">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M6 17c2.269-9.881 11-11.667 11-11.667v-3.333l7 6.637-7 6.696v-3.333s-6.17-.171-11 5zm12 .145v2.855h-16v-12h6.598c.768-.787 1.561-1.449 2.339-2h-10.937v16h20v-6.769l-2 1.914z"/></svg>
                                         </a>
                                     </div>
@@ -134,7 +134,7 @@ const Portfolios = () => {
                                 <div className="portfolio-info">
                                     <div className="portfolio-title">
                                         <h4>Website Inspirasi Masak</h4>
-                                        <a href="https://insak.webacop.com/" className="portfolio-link" target="_blank">
+                                        <a href="https://insak.rafsite.com/" className="portfolio-link" target="_blank">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M6 17c2.269-9.881 11-11.667 11-11.667v-3.333l7 6.637-7 6.696v-3.333s-6.17-.171-11 5zm12 .145v2.855h-16v-12h6.598c.768-.787 1.561-1.449 2.339-2h-10.937v16h20v-6.769l-2 1.914z"/></svg>
                                         </a>
                                     </div>
@@ -158,7 +158,7 @@ const Portfolios = () => {
                                 <div className="portfolio-info">
                                     <div className="portfolio-title">
                                         <h4>JST Generator</h4>
-                                        <a href="https://webjst.webacop.com/" className="portfolio-link" target="_blank">
+                                        <a href="https://webjst.rafsite.com/" className="portfolio-link" target="_blank">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M6 17c2.269-9.881 11-11.667 11-11.667v-3.333l7 6.637-7 6.696v-3.333s-6.17-.171-11 5zm12 .145v2.855h-16v-12h6.598c.768-.787 1.561-1.449 2.339-2h-10.937v16h20v-6.769l-2 1.914z"/></svg>
                                         </a>
                                     </div>
@@ -181,7 +181,7 @@ const Portfolios = () => {
                                 <div className="portfolio-info">
                                     <div className="portfolio-title">
                                         <h4>Dunia Web</h4>
-                                        <a href="https://duniaweb.webacop.com/" className="portfolio-link" target="_blank">
+                                        <a href="https://duniaweb.rafsite.com/" className="portfolio-link" target="_blank">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M6 17c2.269-9.881 11-11.667 11-11.667v-3.333l7 6.637-7 6.696v-3.333s-6.17-.171-11 5zm12 .145v2.855h-16v-12h6.598c.768-.787 1.561-1.449 2.339-2h-10.937v16h20v-6.769l-2 1.914z"/></svg>
                                         </a>
                                     </div>
@@ -205,7 +205,7 @@ const Portfolios = () => {
                                 <div className="portfolio-info">
                                     <div className="portfolio-title">
                                         <h4>Marketplace Genteng</h4>
-                                        <a href="https://gentenggulun.webacop.com/" className="portfolio-link" target="_blank">
+                                        <a href="https://gentenggulun.rafsite.com/" className="portfolio-link" target="_blank">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M6 17c2.269-9.881 11-11.667 11-11.667v-3.333l7 6.637-7 6.696v-3.333s-6.17-.171-11 5zm12 .145v2.855h-16v-12h6.598c.768-.787 1.561-1.449 2.339-2h-10.937v16h20v-6.769l-2 1.914z"/></svg>
                                         </a>
                                     </div>
